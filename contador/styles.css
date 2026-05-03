@@ -1,0 +1,14 @@
+.contenedor {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+   #numero { color: blue; } 
+.limite { color: red; } 
+
+#numero.limite{
+    color: red;
+    
+}
